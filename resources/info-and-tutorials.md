@@ -3,3 +3,4 @@
 * Creating mobile versions of websites using CSS3 media queries: https://www.smashingmagazine.com/2010/07/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/
 * You Might Not Need jQuery: http://youmightnotneedjquery.com/
 * Choosing Vanilla JavaScript: http://alistapart.com/blog/post/choosing-vanilla-javascript
+* Eloquent Javascript, Chapter 20 - Node: http://eloquentjavascript.net/20_node.html
