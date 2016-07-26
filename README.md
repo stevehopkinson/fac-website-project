@@ -1,2 +1,41 @@
 # fac-website-project
 Founders &amp; Coders Website Project
+
+## Project ideas
+
+- Peter: Hacker Alias generator / toast / bread artisan website
+- Cleo: Wedding website / baby names
+- Nora: Personal website/online CV
+- Tom: Markdown formatting site
+- Steve: When can I buy a house? / Katathon?
+
+## Objectives
+
+- Learn back-end development fundamentals
+- Understanding more about developing a concept (user stories/wireframes/etc)
+- Understand the relationship between HTML/CSS/JavaScript
+- Learn to work with APIs
+- Incorporating 
+- Develop portfolio
+- Documenting our journey as a resource for the next intake
+
+## Resources
+
+- jsfiddle.net - HTML/CSS/Javascript development environment
+- codepen.io - As above
+- balsamiq.com - Wireframe/prototype builder
+
+## First steps
+
+- Pair off and divide up tasks
+- Write a list of all the things the website needs to do
+- Work up ideas into user stories
+- Develop a wireframe from that list
+- Build an HTML skeleton of the page - no styling or JavaScript unless it's necessary 
+- Develop richer functionality (adaptive designs/animations/forms/clever stuff)
+
+## Week 1 tasks
+
+- Create a list of things that your website will do (eg. allow people to RSVP, show map, etc)
+- Create a wireframe using balsamiq or similar to show what your website might look like
+- (If possible) Create a basic HTML skeleton of the page
