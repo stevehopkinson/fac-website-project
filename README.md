@@ -5,9 +5,11 @@ Founders &amp; Coders Website Project
 
 - Peter: Hacker Alias generator / toast / bread artisan website
 - Cleo: Wedding website / baby names
+- Osania: Sesame Street-style multiplication page
 - Nora: Personal website/online CV
 - Tom: Markdown formatting site
 - Steve: When can I buy a house? / Katathon?
+- Lucy: Coffee shops in Cornwall?
 
 ## Objectives
 
@@ -15,7 +17,6 @@ Founders &amp; Coders Website Project
 - Understanding more about developing a concept (user stories/wireframes/etc)
 - Understand the relationship between HTML/CSS/JavaScript
 - Learn to work with APIs
-- Incorporating 
 - Develop portfolio
 - Documenting our journey as a resource for the next intake
 
