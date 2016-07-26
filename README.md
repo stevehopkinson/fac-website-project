@@ -25,6 +25,10 @@ Founders &amp; Coders Website Project
 - jsfiddle.net - HTML/CSS/Javascript development environment
 - codepen.io - As above
 - balsamiq.com - Wireframe/prototype builder
+- https://www.gov.uk/service-manual/agile-delivery/writing-user-stories - Gov.uk guide to writing user stories
+- http://www.agilemodeling.com/artifacts/userStory.htm - Another user stories tutorial (beware of jargon!)
+- https://www.atlassian.com/agile/requirements - Guide to writing requirements
+- http://www.pjsrivastava.com/articles/a-short-guide-to-writing-software-requirements - Another requirements guide
 
 ## First steps
 
