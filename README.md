@@ -29,7 +29,7 @@ Founders &amp; Coders Website Project
 - http://www.agilemodeling.com/artifacts/userStory.htm - Another user stories tutorial (beware of jargon!)
 - https://www.atlassian.com/agile/requirements - Guide to writing requirements
 - http://www.pjsrivastava.com/articles/a-short-guide-to-writing-software-requirements - Another requirements guide
-- http://www.trello.com - Good collaborative tool to keep track of tasks and what stage they're at ([see an example board][1].
+- http://www.trello.com - Good collaborative tool to keep track of tasks and what stage they're at ([see an example board][1])
 
 ## First steps
 
