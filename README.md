@@ -29,7 +29,7 @@ Founders &amp; Coders Website Project
 - http://www.agilemodeling.com/artifacts/userStory.htm - Another user stories tutorial (beware of jargon!)
 - https://www.atlassian.com/agile/requirements - Guide to writing requirements
 - http://www.pjsrivastava.com/articles/a-short-guide-to-writing-software-requirements - Another requirements guide
-- http://www.trello.com - Good collaborative tool to keep track of tasks and what stage they're at.
+- http://www.trello.com - Good collaborative tool to keep track of tasks and what stage they're at ([see an example board][1].
 
 ## First steps
 
@@ -45,3 +45,5 @@ Founders &amp; Coders Website Project
 - Create a list of things that your website will do (eg. allow people to RSVP, show map, etc)
 - Create a wireframe using balsamiq or similar to show what your website might look like
 - (If possible) Create a basic HTML skeleton of the page
+
+[1]:	https://trello.com/b/TFWoOH5n/production-workflow
