@@ -47,3 +47,10 @@ Founders &amp; Coders Website Project
 - (If possible) Create a basic HTML skeleton of the page
 
 [1]:	https://trello.com/b/TFWoOH5n/production-workflow
+
+## Projects
+
+Tom - https://github.com/tomhuhges/caret <br>
+Osania - https://github.com/san00/multiply-me- <br>
+Steve - https://github.com/stevehopkinson/when-can-i-buy-a-house <br>
+Peter - https://github.com/RhodesPeter/smart-toaster
