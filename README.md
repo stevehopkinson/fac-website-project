@@ -53,4 +53,5 @@ Founders &amp; Coders Website Project
 Tom - https://github.com/tomhuhges/caret <br>
 Osania - https://github.com/san00/multiply-me- <br>
 Steve - https://github.com/stevehopkinson/when-can-i-buy-a-house <br>
-Peter - https://github.com/RhodesPeter/smart-toaster
+Peter - https://github.com/RhodesPeter/smart-toaster <br>
+Dan - https://github.com/danmarcus111/danmarcus111.github.io
